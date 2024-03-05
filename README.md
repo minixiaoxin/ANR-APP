@@ -31,7 +31,7 @@ IDEA触发编译APK文件，编译时`build.gradle`编译文件中版本配置�
 ![image-20231221163420611](https://github.com/minixiaoxin/ANR-APP/assets/45511100/19631ec4-3c9d-451b-8f3e-1989fe45c6e9)
 
 
-**注：**在非root权限下安装，不会生效。
+**注：** 在非root权限下安装，不会生效。
 
 
 ## 2、APK应用路径
